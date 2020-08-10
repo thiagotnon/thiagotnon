@@ -1,6 +1,6 @@
 <img width="auto" src="https://i.imgur.com/iEhHlBH.jpg">
 
-## Olá, Eu sou o Thiago! 👋
+## Olá, eu sou o Thiago! 👋
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um estudante FullStack Developer :computer:
 
