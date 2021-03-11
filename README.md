@@ -5,7 +5,7 @@ Sou apaixonado por resolver problemas utilizando a programação.
 Sou um estudante FullStack Developer :computer:
 
  :rocket:  &nbsp; Trabalho em uma Agência de Marketing Digital **Fusão Online**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em FullStack usando React
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em FullStack usando React e Node
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout, Flexbox, UI Design, WordPress, Bootstrap e Materialize
  <br/> :computer: &nbsp; Minha stack: JavaScript, ReactJS, Node.js, AdonisJS e TypeScript(em estudo...)
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, gadgets, games Valorant, CS:GO, filmes, animes, seriados na Netflix e Amazon Prime 
