@@ -1,10 +1,8 @@
 [![MasterHead](https://w0.peakpx.com/wallpaper/963/804/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg)](https://www.linkedin.com/in/thiago-natan/)
 <h1 align="center">Hi 👋, I'm Thiago Natan</h1>
-<h3 align="center">A Front-end Developer from Brazil</h3>
+<h3 align="center">A Front-end Developer from Brazil - Living in The Netherlands</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/93a438565e31dd396c21194436b0f7920889e1d552741112e1513dd2fe1a993a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagotnon&label=Profile%20views&color=0e75b6&style=flat" alt="thiagotnon" /> </p>
 
 - 🔭 I’m currently working on **G4F**
 
