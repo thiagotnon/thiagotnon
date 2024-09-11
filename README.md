@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **thiagotnon@gmail.com**
 
-- ⚡ Fun fact **I am live in The Netherlands**
+- ⚡ Fun fact **I live in The Netherlands**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
